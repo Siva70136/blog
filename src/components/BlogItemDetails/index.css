@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.blog-details {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.image {
+  width: 100%;
+}
+
+.description {
+  font-size: 17px;
+  color: #8e8e8e;
+}
